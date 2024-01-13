@@ -1,0 +1,45 @@
+
+{
+    "vegetables": [
+        {
+        "id": 1,
+        "name": "Green Cabbage",
+        "price_per_kg": 35,
+        "url": "assets/images/img_1.png",
+        "category": "Fruits",
+        "description": "Green cabbage is a versatile vegetable with a crisp, slightly sweet flavor. It's packed with vitamins C and K, and can be enjoyed raw, cooked, or fermented. Here are some ideas for using green cabbage: coleslaw, stir-fries, soups, stews, kimchi, sauerkraut, or stuffed cabbage rolls."
+        },
+        {
+        "id": 2,
+        "name": "Broccoli",
+        "price_per_kg": 80,
+        "url": "assets/images/img_2.png",
+        "category": "Fruits",
+        "description": "Broccoli is a cruciferous vegetable known for its tiny green florets and thick stalks. It's a good source of vitamins C and K, fiber, and potassium. Broccoli can be enjoyed steamed, roasted, stir-fried, or even raw. Try it in salads, pasta dishes, stir-fries, or roasted with olive oil and spices."
+        },
+        {
+        "id": 3,
+        "name": "Carrot",
+        "price_per_kg": 40,
+        "url": "assets/images/img_3.png",
+        "category": "Fruits",
+        "description": "The bright orange carrot is a root vegetable with a sweet, earthy flavor. It's a rich source of beta-carotene, which the body converts to vitamin A. Carrots are incredibly versatile and can be enjoyed raw, cooked, roasted, or even juiced. Try them in salads, stir-fries, soups, roasted as a side dish, or in carrot juice."
+        },
+        {
+        "id": 4,
+        "name": "Pakcoy",
+        "price_per_kg": 60,
+        "url": "assets/images/img_4.png",
+        "category": "Fruits",
+        "description": "Pakcoy, also known as bok choy, is a leafy green vegetable with dark green, flat leaves and white stalks. It has a mild, slightly peppery flavor and is a good source of vitamins A and C. Pakcoy is quick and easy to cook, making it a perfect ingredient for stir-fries, soups, or even eaten raw in salads."
+        },
+        {
+        "id": 5,
+        "name": "Savoy Cabbage",
+        "price_per_kg": 45,
+        "url": "assets/images/img_1.png",
+        "category": "Fruits",
+        "description": "Savoy cabbage is a type of cabbage with crinkled, dark green leaves and a slightly sweet, nutty flavor. It's a good source of vitamins C and K, and fiber. Savoy cabbage is more tender than regular cabbage and can be enjoyed raw, cooked, or fermented. Try it in salads, coleslaw, stir-fries, or stuffed cabbage rolls."
+        }
+    ]
+}
