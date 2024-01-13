@@ -1,6 +1,9 @@
-Hero Animations are not that difficult to implement. They knid of sound a little bit
-exotic because of the name perhaps nut there is nothin special about them. 
-It just takes on  widget from one screen to the next screen and you can define how they are animating.
+Hero Animations are not that difficult 
+to implement. They knid of sound a little bit
+exotic because of the name perhaps nut there
+is nothin special about them. 
+It just takes on  widget from one screen to 
+the next screen and you can define how they are animating.
 
 
 Requirements :
